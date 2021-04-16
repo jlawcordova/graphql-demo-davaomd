@@ -1,0 +1,3 @@
+[submodule "graphql-demo-davaomd-app"]
+	path = graphql-demo-davaomd-app
+	url = https://github.com/jlawcordova/graphql-demo-davaomd-app.git
