@@ -1,10 +1,13 @@
 {
 	"folders": [
 		{
-			"path": "."
+			"path": "graphql-demo-davaomd-app"
 		},
 		{
-			"path": "graphql-demo-davaomd-app"
+			"path": "graphql-demo-davaomd-api"
+		},
+		{
+			"path": "."
 		}
 	],
 	"settings": {}
